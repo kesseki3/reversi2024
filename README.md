@@ -3,7 +3,7 @@
 > Please note that this game will not be removed until 2024, but the service may be terminated without notice after 2024 for the protection of information.
 
 > [!IMPORTANT]
-> > > If you'd like to play the Reversi, please [click here](https://kesseki3.github.io/reversi2024/).
+> If you'd like to play the Reversi, please [click here](https://kesseki3.github.io/reversi2024/).
 
 > [!NOTE]
 > Sorry for that game with AI is unavailable.
