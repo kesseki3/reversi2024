@@ -1,15 +1,20 @@
-# :sunflower:
-
+# :sunflower: README
+---
 > [!IMPORTANT]
-> If you'd like to play the game, please [click here](https://kesseki3.github.io/reversi2024/).
+> If you'd like to play the Reversi, please [click here](https://kesseki3.github.io/reversi2024/).
+---
+> [!NOTE]
+> Sorry for that game with AI is unavailable.
+---
+## About the game
 
-> [!WARNING]
-> Please note!
-> Game with AI is out of order.
+
+## Supported / Unsupported Features 
+- [*] Normal Reversi match
+- [*] Change Language
+- [*] Reset / Rematch
+- [ ] AI match (Comming soon...)
 
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
 
-### @2024 kesseki3
+### @2024 kesseki3 All rights reserved.
