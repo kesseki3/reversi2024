@@ -10,11 +10,10 @@
 
 
 ## Supported / Unsupported Features 
-- [*] Normal Reversi match
-- [*] Change Language
-- [*] Reset / Rematch
+- [x] Normal Reversi match
+- [x] Change Language (Japanese, English, Arabic)
+- [x] Reset / Rematch
 - [ ] AI match (Comming soon...)
 
 
-
-### @2024 kesseki3 All rights reserved.
+#### @2024 kesseki3 All rights reserved.
