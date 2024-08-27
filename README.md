@@ -9,7 +9,7 @@
 > Sorry for that game with AI is unavailable.
 
 ## About the game
-　The name of the game is Reversi, one of the traditional Japanese games since 1973. The rules are simple: stones are placed on the board, and the game ends when all the stones on the board are of one color or when the board is completely filled with stones. During this summer vacation, I created Reversi as a browser game. I hope you will enjoy it.
+　The name of the game is Reversi, one of the traditional Japanese games since 1973. The rules are simple: stones are placed on the board, and the game ends when all the stones on the board are of one color or when the board is completely filled with stones. During this summer vacation, I created Reversi as a browser game. I hope you will enjoy the game!
 
 ## Supported / Unsupported Features 
 - [x] Normal Reversi match
