@@ -1,9 +1,8 @@
+> If you'd like to play the Reversi, please [click here](https://kesseki3.github.io/reversi2024/).
+
 # :sunflower: README (English)
 > [!CAUTION]
 > Please note that this game will not be removed until 2025, but the service may be terminated without notice after 2025 for the protection of information.
-
-> [!IMPORTANT]
-> If you'd like to play the Reversi, please [click here](https://kesseki3.github.io/reversi2024/).
 
 > [!NOTE]
 > Sorry for that game with AI is unavailable.
@@ -26,12 +25,11 @@
 <br>
 <br>
 
+> オセロを遊びたい方は [こちらをクリック](https://kesseki3.github.io/reversi2024/)。
+
 # :sunflower: README (日本語)
 > [!CAUTION]
 > このゲームは、2025年以降告知なくサービスが終了し、遊べなくなる可能性があります。
-
-> [!IMPORTANT]
-> オセロを遊びたい人は [こちらをクリック](https://kesseki3.github.io/reversi2024/)。
 
 > [!NOTE]
 > AI対戦機能は現在利用できません。
