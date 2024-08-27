@@ -1,6 +1,6 @@
 # :sunflower: README (English)
 > [!CAUTION]
-> Please note that this game will not be removed until 2024, but the service may be terminated without notice after 2024 for the protection of information.
+> Please note that this game will not be removed until 2025, but the service may be terminated without notice after 2025 for the protection of information.
 
 > [!IMPORTANT]
 > If you'd like to play the Reversi, please [click here](https://kesseki3.github.io/reversi2024/).
@@ -25,7 +25,7 @@
 
 # :sunflower: README (日本語)
 > [!CAUTION]
-> このゲームは2024年まではサービス終了しませんが、情報保護のため2024年以降告知なくサービスが終了し、遊べなくなる可能性があります。
+> このゲームは2025年まではサービス終了しませんが、情報保護のため2025年以降告知なくサービスが終了し、遊べなくなる可能性があります。
 
 > [!IMPORTANT]
 > オセロを遊びたい人は [こちらをクリック](https://kesseki3.github.io/reversi2024/).
