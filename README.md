@@ -18,7 +18,7 @@
 - [ ] AI match (Comming soon...)
 
 ## Changelog
-- `2024/08/27`Released
+- `2024/08/27` Released
 
 ---
 ##### ©2024 kesseki3 All Rights Reserved.
