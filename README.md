@@ -18,7 +18,7 @@
 - [ ] AI match (Comming soon...)
 
 ---
-##### @2024 kesseki3 All Rights Reserved.
+##### ©2024 kesseki3 All Rights Reserved.
 <br>
 <br>
 <br>
@@ -43,4 +43,4 @@
 - [ ] AI対戦
 
 ---
-##### @2024 kesseki3 All Rights Reserved.
+##### ©2024 kesseki3 All Rights Reserved.
