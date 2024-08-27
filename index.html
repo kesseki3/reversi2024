@@ -2,12 +2,44 @@
 <html lang="ja">
 <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>自由提出課題『■ REVERSI / オセロ ■』</title>
+    <script src="main.js" defer></script>
+    <link rel="stylesheet" href="style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 </head>
 <body>
-    <h1>🌻Comming soon...</h1>
+    <header>
+        <div id="column">
+        <a href="" class="btn" id="reset" type="button" onclick="reload(); return false;">↺再試合</a>
+        <a href="" class="btn" id="lang" type="button" onclick="changeLanguage(); return false;">Change Language</a> 
+        </div>
+        <h1>■ REVERSI / オセロ ■</h1>
+    </header>
+    <div class="overlay">
+    <div class="board">
+        <div id="game"></div>
+    </div></div>
+    <div id="information">
+        <div id="status">黒のターンです</div>
+        <div id="winner" style="display: none;"></div>
+        <div id="score"></div>
+    </div>
+    <div id="instruction">
+        <div id="JP">
+            <div class="center"><hr><br>★*+:｡.｡　このサイトの説明　｡.｡:+*★<br><br><hr></div>
+            　FF外から失礼します。このサイトではオセロで勝負ができます。2人対戦専用で、コンピュータ対戦機能は非搭載ですから、私と同じく友達がいないそこのあなたは、せいぜい一人で楽しんでください。
+            　遊び方は普通のオセロと同じです。スコアは、それぞれの石の数を表しています。左上の『再試合』ボタンを押すことで、盤のリセットができます。
+            　バグがあったらいつか直そうと思っています。非常に短期間で作成したので、そこはあしからず。工夫したところは、オセロの盤面のデザインを凝ったところ、リセットボタンを作ったところ、オセロ盤の位置を中央にしたところ、UIが崩れないように工夫したところなどです。実は、基本的なオセロのゲームシステムの実装よりも、cssでスタイルを整えるほうが時間がかかってたりしてます。
+            　このくらいのブラウザゲームだったら、簡単に誰でも作れる時代です。皆さんも、ブラウザゲームづくりに挑戦してみませんか？ご参考になれば幸いです。
+        </div>
+        <div id="EN" style="display: none;"><div class="center"><hr><br>★*+:｡.｡　About this Game　｡.｡:+*★<br><br><hr></div>
+            　اعذرني من خارج FF. يمكنك لعب عطيل على هذا الموقع، ولكن ضد لاعبين اثنين فقط وليس ضد الكمبيوتر، لذا إذا كنت مثلي وليس لديك أي أصدقاء، فأنت وحدك في أفضل الأحوال.
+            　تُلعب اللعبة بنفس طريقة لعبة عطيل العادية. تمثل النتيجة عدد الأحجار في كل لعبة. يمكنك إعادة تشغيل اللعبة بالضغط على زر ”إعادة تعيين“ في الزاوية العلوية اليسرى.
+            　إذا كانت هناك أي أخطاء، سأقوم بإصلاحها يومًا ما. لقد صنعتها في وقت قصير جدًا، لذا من فضلك لا تنزعج من ذلك. لقد قمت بتطوير تصميم لوحة عطيل، وصنعت زر إعادة الضبط، ووضعت موضع لوحة عطيل في المنتصف، وحاولت التأكد من عدم انهيار واجهة المستخدم. في الواقع، لقد استغرق تصميم اللعبة باستخدام css وقتًا أطول من الوقت الذي استغرقته في تنفيذ نظام لعبة عطيل الأساسي.
+            　يمكن لأي شخص بسهولة إنشاء لعبة متصفح بهذا المستوى. لمَ لا تجرب يدك في إنشاء لعبة متصفح؟ نأمل أن يكون هذا مفيدًا لك.
+        </div>
+    </div>
     <footer>
-        <p>@2024 kesseki3</s></b></p>
+        <p>©2024 kesseki3 All Rights <b><s>Reversed.</s></b></p>
     </footer>
 </body>
