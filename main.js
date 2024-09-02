@@ -422,10 +422,10 @@ function selectNumPlayer() {
             $(overlay).remove();
             isSelectingPlayer = false;
             gamePaused = false;
-            players = 1;
-            if (currentPlayer === 2) {
+            players = 2; //一時的にAIの機能を現在停止しています。
+            /*if (currentPlayer === 2) {
                 placeAIPiece();
-            }
+            }*/
         });
     });
     const twoPlayerButton = document.createElement('button');
