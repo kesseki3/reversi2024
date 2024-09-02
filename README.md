@@ -2,8 +2,11 @@
 
 > [!CAUTION]
 > 重大なバグ
+> 
 > ゲーム開始時に「AIと対戦」を選択しないで下さい。同じプレイヤーが2回手を打ててしまうバグが発見されました。
+> 
 > Important bug
+> 
 > Do not select "Play with AI" when starting the game. A bug has been discovered that allows the same player to make two moves.
 
 
