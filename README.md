@@ -1,9 +1,6 @@
 > If you'd like to play the Reversi, please [click here](https://kesseki3.github.io/reversi2024/).
 
-> [!CAUTION]
-> 《重大なバグ》<br>
-> ・ゲーム開始時に「AIと対戦」を選択しないで下さい。同じプレイヤーが2回手を打ててしまうバグが発生しています。<br>
-> ・Do not select "Play with AI" when starting the game. We discovered the bug that allows the same player to make two moves.
+> 次の更新日は11/5を予定しています。
 
 
 # :sunflower: README (English)
