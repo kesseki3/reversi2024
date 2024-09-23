@@ -9,7 +9,7 @@ const textdata = [
         score: "【スコア】",
         gameover: "＜ゲーム終了＞",
         aior2p: "対戦方法を選択して下さい",
-        playwith_ai: "AIと対戦(利用不可)",
+        playwith_ai: "2人で対戦",
         playwith_2p: "2人で対戦"
     }, 
     {
@@ -20,7 +20,7 @@ const textdata = [
         winner: " is Winner!",
         score: "【Score】",
         aior2p: "Which do you play with?",
-        playwith_ai: "AI Match(Comming soon)",
+        playwith_ai: "2P Match",
         playwith_2p: "2P Match"
     }
 ];
