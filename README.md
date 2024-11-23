@@ -1,6 +1,6 @@
 > If you'd like to play the Reversi, please [click here](https://kesseki3.github.io/reversi2024/).
 
-> 次の更新日は11/5を予定しています。
+> 次の更新日は11/5を予定しています。　追記：めんどくさくて更新無理そうです
 
 
 # :sunflower: README (English)
